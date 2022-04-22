@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ziziphobusakwe
-- 👀 I’m interested in 
 - 🌱 I’m currently learning python & java 
+- 👀 I’m interested meaningful, useful analytics through Data Science; Building tools that help people on a daily.
 - 💞️ I’m looking to collaborate on any data science project ; solutions for financial services in Africa
 - 📫 How to reach me E: zzbusakwe@gmail.com   C: 082 842 5927
 
